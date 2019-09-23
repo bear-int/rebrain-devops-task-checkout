@@ -9,7 +9,7 @@ This repository contains the default nginx configuration file. (https://gitlab.r
 
 ## Versioning
 
-We use [GitLab] (https://gitlab.rebrainme.com) for versioning. 
+We use [GitLab](https://gitlab.rebrainme.com) for versioning. 
 
 ## Author
 
