@@ -5,7 +5,7 @@ Rebrain-devops-task-checkout is my first test project in course DevOps by rebrai
 
 ## Repository contains
 
-This repository contains the default nginx configuration file
+This repository contains the default nginx configuration file. (https://gitlab.rebrainme.com/nalimov.m/rebrain-devops-task-checkout)
 
 ## Versioning
 
